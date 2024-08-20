@@ -1,4 +1,4 @@
-# Hi there, I'm [Shibakek]! 👋
+# Hi there, I'm Shibakek! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer from Canada 🇨🇦, and I've been tinkering with code for about 5 years. Here you'll find a collection of my projects and contributions.
 
