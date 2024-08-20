@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I'm a passionate developer from Canada 🇨🇦, a
 Here are a few highlights of my work:
 
 - [**Gift Points Calculator**](https://github.com/shibakek2/tiktok-currency-calculator.): A Python script to calculate earnings based on gift points.
-- [**Project 2**](https://github.com/shibakek2/tiktok-discord-integration-): Simple discord bot for your tiktok live streams.
-- [**Project 3**](https://github.com/shibakek2/kitty-forums): Simple forum website made with python and hosted on a rasberry pi.
+- [**Tiktok Discord Bot**](https://github.com/shibakek2/tiktok-discord-integration-): Simple discord bot for your tiktok live streams.
+- [**Forum Website SRC**](https://github.com/shibakek2/kitty-forums): Simple forum website made with python and hosted on a rasberry pi.
 
 ## 📊 GitHub Stats
 
