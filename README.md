@@ -40,5 +40,3 @@ Feel free to reach out to me via:
 I'm always open to collaborating on interesting projects or just having a chat about tech. Don't hesitate to connect with me!
 
 ---
-
-⭐️ From [Your Name](https://github.com/shibakek2)
